@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588335031307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3819837688",
+    "id" : "94F1ADF2",
+    "lastKnownWriteTime" : 1588374581,
+    "last_content_update" : 1588374581725,
+    "path" : "~/R/projects/rprog_data_ProgAssignment3-data/rankhospital.R",
+    "project_path" : "rankhospital.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
